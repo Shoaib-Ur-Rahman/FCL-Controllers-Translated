@@ -1,164 +1,194 @@
-**Languages:**  
-**English** | [中文](README-CN.md)
+# FCL Controllers — Translated Repository
 
-----
-</br>
+[![Original project](https://img.shields.io/badge/Original-FCL--Team%2FFCL--Controllers-3776AB)](https://github.com/FCL-Team/FCL-Controllers)
 
-<h1 align="center">FCL Controllers</h1>
+This repository provides translated documentation and resources for the FCL Controllers project.
 
-Controller repository of FCL.
+> [!IMPORTANT]
+> This is an unofficial translated mirror. Controller content, original documentation, trademarks, and project credits belong to [FCL-Team](https://github.com/FCL-Team) and the respective contributors.
 
-You can submit a Pull Request to this repository to contribute.
+## About
 
-## How to upload your controllers
+FCL Controllers is the controller repository for FCL. It contains controller packages, JSON metadata, screenshots, icons, version information, and category data.
 
-1. **Read the controller uploading tutorial** (Only available in Simplified Chinese currently)
-  * [FCL Doc](https://fcl-team.github.io/pages/documentation.html?path=/_controller/upload_controller.md)
-  * [Tencent Document](https://docs.qq.com/doc/DWW9QZmJZSnVhU1lD) (Browser translation may not work)
-  * [Video](https://b23.tv/izaMGCq)
+**Original repository:** [FCL-Team/FCL-Controllers](https://github.com/FCL-Team/FCL-Controllers)
 
-2. **Join the controller examining QQ group**  
-  **Group ID: 139641497**  
-  * Discussion of topics 【unrelated to the controller】 is forbidden.
-  * You will 【be kicked】 if you ask about topics unrelated to the controller.
-  * Don't 【be obstinate】 with uploading unapproved controllers.
-  * Upload non-original controllers 【without permission】 is forbidden.
-  * Controller uploading is a 【manual operation】, please 【be patient】.
+## Download and usage
 
-3. **Upload ZIP files packaged by the launcher and wait for being examined**  
+1. Open the original repository or this translated repository.
+2. Download the controller ZIP or the complete source package.
+3. Do not install content you do not trust or do not have permission to use.
+4. Follow FCL's original upload and installation instructions.
 
-  * ZIP file name should be `<controller_id>.zip`
+## Contributing
 
-  * ZIP file structure:
-    * Please place your `controller.json` file at
-    ```
-    /<controller_id>/versions/<version_code>.json
-    ```
-    * Place your screenshot file at
-    ```
-    /<controller_id>/screenshots/<number>.png
-    ```
-    * Place your `version.json` file at
-    ```
-    /<controller_id>/version.json
-    ```
-    * Place your `index.json` file at
-    ```
-    /<controller_id>/index.json
-    ```
-    * Place your `icon.png` file at
-    ```
-    /<controller_id>/icon.png
-    ```
+Before contributing:
 
-    `<controller_id>`：the id of this controller.  
-    `<version_code>`：the version code of this controller.  
-    `<number>`：the serial number of the screenshot, the maximum number of screenshot is 16, it should be 01, 02, 03... 16  
-    **Make sure that [controller category(s)](#controller-category) have been defined in `index.json`.**  
-    **Make sure that `version.json` and `index.json` have valid JSON syntax.**  
-    **At least one screenshot is required.**
+- Review the original project's upload rules.
+- Upload only original or properly licensed work.
+- Request permission before uploading another creator's controller.
+- Ensure that each Pull Request changes only the relevant controller and its assets.
+- Keep translated text clearly separate from original project JSON data.
+- Never change IDs, paths, or JSON keys solely for translation purposes.
 
-## Upload a new version of an existing controller
+## Uploading a controller
 
-### Method 1: Upload in QQ group
+A controller ZIP should be named using its controller ID:
 
-* Upload it directly in QQ group, but make sure you have 【informed the administrator】 that it's an update of an existing controller.
-* Controller updating is a 【manual operation】, please 【be patient】.
-
-### Method 2: Create pull request
-
-Please make sure that your PR modifies only one controller, and images in that controller.
-
-#### Update index.json
-
-Add an object like this:
+```text
+<controller_id>.zip
 ```
+
+The package structure should look like this:
+
+```text
+/<controller_id>/
+├── index.json
+├── version.json
+├── icon.png
+├── versions/
+│   └── <version_code>.json
+└── screenshots/
+    ├── 01.png
+    ├── 02.png
+    └── ...
+```
+
+### Required files
+
+| Path | Purpose |
+|---|---|
+| `<controller_id>/index.json` | Controller ID, name, introduction, language, devices, and categories |
+| `<controller_id>/version.json` | Screenshot count, description, author, latest version, and history |
+| `<controller_id>/versions/<version_code>.json` | Configuration for a controller version |
+| `<controller_id>/icon.png` | Controller icon |
+| `<controller_id>/screenshots/01.png` | First screenshot |
+
+### Requirements
+
+- Use valid JSON syntax in `index.json` and `version.json`.
+- Define all controller categories used by the controller.
+- Include at least one screenshot.
+- Number screenshots sequentially from `01` through `16`, if used.
+- Keep the controller ZIP and internal file structure organized.
+- Wait patiently if a manual review process is required.
+
+## Updating an existing controller
+
+For a new version:
+
+1. Move the current `latest` object into `history`.
+2. Replace `latest` with the new version code and name.
+3. Update the screenshot count and description.
+4. Add the new `versions/<version_code>.json` file.
+5. Update only the relevant controller and its images.
+
+Example `index.json` entry:
+
+```json
 {
-    "id": "Example", // Controller id.
-    "lang": "Example", // Controller language, like "en", "zh_CN", etc, if fits all language, fill in "all".
-    "name": "Example", // Name of the controller.
-    "introduction": "Example", // Introduction of the controller.
-    "device": [
-        0, // Integer, 0/1/2, 0 is phone, 1 is pad, 2 is other device.
-        1
-    ],
-    "categories": [
-        0, // Integer, categories of the controller.
-        1
-    ]
+  "id": "Example",
+  "lang": "all",
+  "name": "Example",
+  "introduction": "Example controller",
+  "device": [0, 1],
+  "categories": [1]
 }
 ```
-So we can display the controller in the launcher.
 
-#### Update version.json
+Example `version.json`:
 
-File path：
-```
-repo_json/<controller_id>/version.json
-```
-
-File content：
-```
+```json
 {
-    "screenshot": Example, // Integer, number of the screenshots.
-    "description": "Example", // Detailed description of the controller.
-    "author": "Example", // Your name.
-    "latest": {
-        "versionCode": Example, // Integer, latest version code of controller, like 1, 285, etc.
-        "versionName": "Example" // Latest version name of controller, like "1.0", "2.8.5", etc.
-    }, // Latest version.
-    "history": [
-        {
-            "versionCode": Example, // Integer, version code of controller.
-            "versionName": "Example" // Version name of controller.
-        },
-        {
-            "versionCode": Example,
-            "versionName": "Example"
-        },
-        ...
-    ] // Old versions, excluding latest version.
+  "screenshot": 1,
+  "description": "Detailed controller description",
+  "author": "Your name",
+  "latest": {
+    "versionCode": 1,
+    "versionName": "1.0"
+  },
+  "history": []
 }
 ```
-When update a new version, put the old "latest" into "history", and change the "latest" to the new one.  
-Also, you can delete some old versions if you want.  
-So we can display the details of the controller in the launcher.
 
-## Controller category
+## Device types
 
-### Available categories:
+| ID | Device |
+|---:|---|
+| 0 | Phone |
+| 1 | Tablet |
+| 2 | Other device |
 
-| Name | ID | Categorie description |
-| ---- | ---- | ---- |
-| Universal | 1 | Contains all basic features |
-| Mods | 2 | Adapts to some mods |
-| Imitate | 3 | Imitates controllers of another software |
-| PVP | 4 | Adapts to PVP games |
-| Full keyboard | 5 | Contains full keyboard |
-| Style | 6 | Provide button styles for other controller makers |
+## Controller categories
 
-### Request for a new category
-Make sure the new category doesn't exist.  
-Remember to note related information, such as reason of adding the categories, the classifying standard, and examples of controllers that meet the standard.
-#### Method 1: Ask in QQ group
-Tell your administrator the categories and related information you want to add.
-#### Method 2: Create pull request
-Add related information in the pull request.  
-Add an object in `category.json` like this:
-```
+| ID | Category | Description |
+|---:|---|---|
+| 1 | Universal | Contains basic features |
+| 2 | Mods | Adapted for some mods |
+| 3 | Imitate | Imitates another software's controller |
+| 4 | PVP | Adapted for PVP games |
+| 5 | Full keyboard | Contains a full keyboard |
+| 6 | Style | Provides button styles for other controller creators |
+
+## Adding a new category
+
+Before requesting a new category:
+
+1. Confirm that the category does not already exist.
+2. Explain why it is needed.
+3. Define its classification standard.
+4. Provide examples of controllers that meet the standard.
+
+Category entries use a structure like:
+
+```json
 {
-    "id": Example, // Integer, category id, like 1, 2, etc.
-    "lang": [
-        {
-            "locale": "Example", // Language, like "en", "zh_CN", etc.
-            "text": "Example" // Translation, like "Mods", "模组", etc.
-        },
-        {
-            "locale": "Example",
-            "text": "Example"
-        }
-        ...
-    ]
+  "id": 1,
+  "lang": [
+    {
+      "locale": "en",
+      "text": "Universal"
+    },
+    {
+      "locale": "zh_CN",
+      "text": "通用"
+    }
+  ]
 }
 ```
-So we can display the category of the controller in the launcher.
+
+## Translation guidelines
+
+- Preserve the meaning of the original instructions.
+- Do not translate JSON keys or internal identifiers.
+- Keep all file paths, URLs, version codes, IDs, and commands unchanged unless explicitly required.
+- Mark uncertain translations clearly for review.
+- Do not alter ownership or licensing notices.
+- Link to the original FCL-Team repository as the source of truth.
+
+## Uploading files to this GitHub repository
+
+### Web upload
+
+1. Open this repository on GitHub.
+2. Select **Add file → Upload files**.
+3. Drag and drop the translated files or extracted folders.
+4. Enter a short commit description.
+5. Select **Commit changes**.
+
+### Git upload
+
+```bash
+git clone https://github.com/Shoaib-Ur-Rahman/FCL-Controllers-Translated.git
+cd FCL-Controllers-Translated
+git add .
+git commit -m "Update translated documentation"
+git push origin main
+```
+
+## Original project and credits
+
+- **Original project:** [FCL-Team/FCL-Controllers](https://github.com/FCL-Team/FCL-Controllers)
+- **Translation maintainer:** [Shoaib-Ur-Rahman](https://github.com/Shoaib-Ur-Rahman)
+
+All rights and credits for original project content belong to FCL-Team and the respective original authors. If there is a license or permission requirement, it applies to the corresponding original content. When in doubt, contact the original maintainers before redistribution.
