@@ -1,0 +1,15 @@
+{
+  "author": "Bilibili Deputy Foxy",
+  "description": "A configurable layout with quick widget mounting; first inspired by the boxy look of win10, it reduces widget overlap as much as possible",
+  "history": [
+    {
+      "versionCode": 250302,
+      "versionName": "1.1.3.Re.test"
+    }
+  ],
+  "latest": {
+    "versionCode": 25050617,
+    "versionName": "1.1.4"
+  },
+  "screenshot": 1
+}

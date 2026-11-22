@@ -1,0 +1,15 @@
+{
+  "author": "QinChuan",
+  "description": "Simple but not simplistic, full-featured. Built-in quick commands and full keyboard",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.1.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "1.2.0"
+  },
+  "screenshot": 4
+}

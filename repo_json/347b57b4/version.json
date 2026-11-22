@@ -1,0 +1,10 @@
+{
+  "author": "QQ Ink Daylight",
+  "description": "Basic controls; fine-tune and you'll master it. Feedback: QQ 655868158\nv3.8\n[Done! Final optimizations..... added inventory left/right switch keys [mouse-style], added main/offhand item switch keys]\nv3.7\n[Optimized code logic and order, shorter load time, less load][Optimized widget styling to feel more modern]\n[Fixed full-keyboard input / blank no-text issues]\n[Added a full-keyboard compatibility mode [when using FCL's built-in move keys, the full keyboard's ↑↓←→ lose function]]\nv3.6\n[Optimized the full keyboard; normally use the real keyboard ~ key for server play]\nv3.5\n[Fixed some widget jump issues][Added missing widgets][Major optimization: full keyboard---optimized keyboard plans.][Two common standards plus one compatible plan]",
+  "history": [],
+  "latest": {
+    "versionCode": 1,
+    "versionName": "1.21.4[Tested version: 1.21.1]"
+  },
+  "screenshot": 1
+}

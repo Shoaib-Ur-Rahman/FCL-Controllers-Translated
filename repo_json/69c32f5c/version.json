@@ -1,0 +1,15 @@
+{
+  "author": "Yuluo Yao",
+  "description": "Version 2.0",
+  "history": [
+    {
+      "versionCode": 10,
+      "versionName": "Version 1.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 20,
+    "versionName": "Version 2.0"
+  },
+  "screenshot": 8
+}

@@ -1,0 +1,10 @@
+{
+  "screenshot": 4,
+  "description": "ConfectionaryQwQ Note:\n\"I've been using this layout since 2023.08.12, over two years now.\nIt was first inspired by a layout I published on 2023.4.30 (BV1cX4y1U7dP), three years ago.\nIt was then made by author XIAOMO_S for the FCL launcher and called MO Key, version 0.4.0.\nThe last MO Key version was 0.5.0, released 2023.11.11, and hasn't been updated for a long time, but that doesn't stop 0.4.0 from still being the most classic and best version. In its memory.\"\n\nOriginal author Bilibili XIAOMO_S Note:\n\n\"A beautified layout for FCL (not easy to make, remember to follow!)\nSome icons borrowed from Bilibili-ConfectionaryQwQ (UID:694203513)\nModeled after the default Pojav layout style\nThis update (0.4.0 summary):\n1. Fixed bugs left from earlier versions\n2. Removed the \"GUI\" key\n3. Optimized and beautified the full keyboard and command area\n4. Added left-click auto hold (double-tap \"LEFT\" to enable)\n5. Added joystick\n6. Out-of-game Shift auto-hold adjusted (double-tap to enable)\"",
+  "author": "Bilibili-XIAOMO_S (UID: 613569306)",
+  "latest": {
+    "versionCode": 2,
+    "versionName": "0.4.0"
+  },
+  "history": []
+}

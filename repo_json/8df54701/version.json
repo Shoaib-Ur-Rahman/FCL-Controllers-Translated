@@ -1,0 +1,27 @@
+{
+  "author": "little boy",
+  "description": "Keys that closely mimic Bedrock pointer controls, with built-in extended features. QQ feedback group: 1026604258",
+  "history": [
+    {
+      "versionCode": 202501161,
+      "versionName": "beta1"
+    },
+    {
+      "versionCode": 202501172,
+      "versionName": "betanew2"
+    },
+    {
+      "versionCode": 2025011801,
+      "versionName": "beta3"
+    },
+    {
+      "versionCode": 2025011901,
+      "versionName": "beta4"
+    }
+  ],
+  "latest": {
+    "versionCode": 2025012101,
+    "versionName": "aerfa1"
+  },
+  "screenshot": 3
+}

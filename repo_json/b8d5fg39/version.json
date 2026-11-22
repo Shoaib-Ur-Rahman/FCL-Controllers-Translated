@@ -1,0 +1,19 @@
+{
+  "author": "coMicBox",
+  "description": "Translated version into English",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.2"
+    }
+  ],
+  "latest": {
+    "versionCode": 4,
+    "versionName": "1.3"
+  },
+  "screenshot": 6
+}

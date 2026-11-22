@@ -1,0 +1,23 @@
+{
+  "author": "binglingaran",
+  "description": "Fixed the issue where f3 had no key value assigned; added two old-phone models",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.3"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.4"
+    }
+  ],
+  "latest": {
+    "versionCode": 4,
+    "versionName": "1.5"
+  },
+  "screenshot": 6
+}

@@ -1,0 +1,10 @@
+{
+  "author": "Bilibili @Zhuyu",
+  "description": "A layout that simulates a full keyboard!\nRed: commonly used keys   Blue: less used keys   Green: unused keys\nBased on vanilla (1.21.11); special mod keys are left unchanged.\nBug feedback:\nBilibili @Zhuyu\nX @zhuyu_china\nkeyboard Series_KA",
+  "history": [],
+  "latest": {
+    "versionCode": 1003,
+    "versionName": "0.1.3"
+  },
+  "screenshot": 3
+}

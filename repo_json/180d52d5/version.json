@@ -1,0 +1,19 @@
+{
+  "author": "Spring Catkins in the Wind",
+  "description": "A lightweight and attractive layout that suits most players",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.1"
+    }
+  ],
+  "latest": {
+    "versionCode": 3,
+    "versionName": "1.2"
+  },
+  "screenshot": 2
+}

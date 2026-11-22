@@ -1,0 +1,19 @@
+{
+  "author": "WuQing_Tick12OwO",
+  "description": "Updated the main UI and adjusted respawn anchor and glowstone positions a bit; if you're not used to it, download the previous version",
+  "history": [
+    {
+      "versionCode": 0,
+      "versionName": ""
+    },
+    {
+      "versionCode": 1,
+      "versionName": "1.01"
+    }
+  ],
+  "latest": {
+    "versionCode": 3,
+    "versionName": "1.21"
+  },
+  "screenshot": 2
+}

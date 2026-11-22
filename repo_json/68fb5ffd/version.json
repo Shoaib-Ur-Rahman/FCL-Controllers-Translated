@@ -1,0 +1,15 @@
+{
+  "author": "ks",
+  "description": "A clean and elegant Fold Craft Launcher widget without sacrificing too many features. Note: the image on the left is not the current version. Fixed the missing inventory issue.",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "0.1 Beta"
+    }
+  ],
+  "latest": {
+    "versionCode": 10,
+    "versionName": "1.0"
+  },
+  "screenshot": 4
+}

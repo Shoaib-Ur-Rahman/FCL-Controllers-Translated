@@ -1,0 +1,27 @@
+{
+  "author": "Coolapk @Clumsy Survival Bro",
+  "description": "Basic four-finger controls; fine-tune and you'll master it. Feedback: QQ 3412163124\nv3.8\n*Done! Final update.....\nv3.7\n* Optimized code logic and order, shorter load time, less load\n* Optimized widget styling to feel more modern\n* Fixed full-keyboard input / blank no-text issues\n* Added Litematica expand and usage commands - no more worrying about not knowing commands\n* Added a full-keyboard compatibility plan; there are now 4 keyboards\nv3.6\n* Fixed full-keyboard bugs\n* Added server key tab\nv3.5\n* Fixed some widget jump issues\n* Added missing key widgets\n* Updated Litematica again - full easy use on phones is no longer hard\n* Major update: full keyboard---\n* Added multiple keyboard plans; three keyboards total.\n  Two common standards plus one compatible",
+  "latest": {
+    "versionCode": 7,
+    "versionName": "3.8"
+  },
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "3.2"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "3.3"
+    },
+    {
+      "versionCode": 4,
+      "versionName": "3.5"
+    },
+    {
+      "versionCode": 6,
+      "versionName": "3.7"
+    }
+  ],
+  "screenshot": 5
+}

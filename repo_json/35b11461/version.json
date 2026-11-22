@@ -1,0 +1,19 @@
+{
+  "author": "xianyu_bang",
+  "description": "This version is: non-notch-display (not fullscreen)\nSome keys can be brought up by long-pressing or double-tapping certain keys\nIf you find any shortcomings while using it,\nfeel free to email me at 2910522265@qq.com.",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.0.1"
+    }
+  ],
+  "latest": {
+    "versionCode": 3,
+    "versionName": "1.0.2"
+  },
+  "screenshot": 8
+}

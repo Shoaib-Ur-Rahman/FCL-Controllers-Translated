@@ -1,0 +1,27 @@
+{
+  "author": "Bilibili XiaoluoFoxington",
+  "description": "- Note\n- - The screenshots on the left are not the latest version!\n- Features\n- - \"Modular\" design\n- - - Separate sub-layouts made for different scenarios; one layout that focuses on one job! And unlike layouts that cram in every scenario, it stays lean.\n- - \"All-bottom\" design\n- - - The main keys of this layout sit almost entirely at the bottom of the screen; never worry about keys blocking the game view, no matter how many mods you add.\n- - Clean and attractive\n- - - This layout has minimal key styles and a clear, easy-to-understand interface. It is not a clone layout, so compared with other clone-style layouts it has no flashy buttons or screens, and no decorative screens you can look at but cannot tap.\n- - Fits almost all common phone DPIs\n- - - Imported the layout and the key text looks abnormally large? That is because this layout did not match your phone's DPI! This layout has been tested and fits almost all common phone DPIs perfectly!\n- Feedback, suggestions, update requests QQ group:\n- - 211870840​\n- - - Group password: JYJW-YYDS​\n- Everyone is welcome to make third-party sub-layouts based on this series! Please credit the original author!",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "Commands|Version 1"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "Commands|Version 2"
+    },
+    {
+      "versionCode": 4,
+      "versionName": "Commands|Version 4"
+    },
+    {
+      "versionCode": 5,
+      "versionName": "Commands|Version 5"
+    }
+  ],
+  "latest": {
+    "versionCode": 6,
+    "versionName": "Commands|Version 6"
+  },
+  "screenshot": 6
+}

@@ -1,0 +1,1446 @@
+[
+  {
+    "id": "00000000",
+    "lang": "all",
+    "name": "Default",
+    "introduction": "Default controller of Fold Craft Launcher.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "91a8c076",
+    "lang": "all",
+    "name": "HY:Pojav-lite",
+    "introduction": "Almost identical to Pojav Launcher's default controller.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "6b13be19",
+    "lang": "all",
+    "name": "HY:Pojav-lite_4:3",
+    "introduction": "Almost identical to Pojav Launcher's default controller.\nFor tablets, small-screen phones and other 4:3 devices.",
+    "device": [
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "9329f2ce",
+    "lang": "en",
+    "name": "HMCL-PE Default",
+    "introduction": "HMCL-PE Default controller of Fold Craft Launcher.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "f0f9a63f",
+    "lang": "zh-CN",
+    "name": "Zalith Default",
+    "introduction": "Almost identical to Zalith Launcher's default layout  1.0.1 changed absolute sizes to percentages",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "a90a5e03",
+    "lang": "zh_CN",
+    "name": "MBE Keys (Bedrock Touch)",
+    "introduction": "A keymap modeled after the MCBE UI, aiming to recreate the Bedrock touch experience and interface look.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "094a34d0",
+    "lang": "zh_CN",
+    "name": "Interrogate Quanyuzhou (TTU)",
+    "introduction": "A multi-functional keymap aiming to give players the best possible touch experience. Earlier versions were made by Bilibili@XiaoA DaShuaiBi, now handed over to A-Peng Who Won't Pick a Name.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "8e8f5abf",
+    "lang": "zh_CN",
+    "name": "\"Key\"-easy Layout|General|v9",
+    "introduction": "A scene-focused modular layout; the bottom layout never blocks the game view, it is clean and attractive, and it fits many phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "876c1afb",
+    "lang": "en",
+    "name": "KeyEasy|General|Ver.7",
+    "introduction": "Focus on the modular controller for scenarios. The bottom controller doesn't block the game screen. It's simple, beautiful and compatible with various mobile phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "3f94c447",
+    "lang": "zh_CN",
+    "name": "\"Key\"-easy Layout|Building|v4",
+    "introduction": "A scene-focused modular layout; the bottom layout never blocks the game view, it is clean and attractive, and it fits many phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "1109b6f6",
+    "lang": "zh_CN",
+    "name": "\"KeyEasy\" Keys|PVP|Version 4",
+    "introduction": "A scene-focused modular layout; the bottom layout never blocks the game view, it is clean and attractive, and it fits many phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "4427c72d",
+    "lang": "zh_CN",
+    "name": "\"Key\"-easy Layout|Commands|v6",
+    "introduction": "A scene-focused modular layout; the bottom layout never blocks the game view, it is clean and attractive, and it fits many phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "e24e8e09",
+    "lang": "zh_CN",
+    "name": "\"KeyEasy\" Keys|Replay Mod|Version 4",
+    "introduction": "A scene-focused modular layout; the bottom layout never blocks the game view, it is clean and attractive, and it fits many phone DPIs.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "21a09ada",
+    "lang": "zh_CN",
+    "name": "bedjava Control Layout|Reset 1",
+    "introduction": "The key layout I made long ago sees the light of day again ()",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "0d1bdad5",
+    "lang": "zh_CN",
+    "name": "Joystick 4-Finger Controls 3.8-Final~",
+    "introduction": "Four fingers is not the limit, but it is legendary: rich widget adaptation plus basic MOD key extensions.",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "15d8febe",
+    "lang": "zh_CN",
+    "name": "[FCL] Convenient Touch Layout",
+    "introduction": "Fairly full-featured, convenient to switch, comfortable style; suited to the Epic Fight mod, but not adapted to Fancy Village.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "6bf9394a",
+    "lang": "en",
+    "name": "MBE-UM Widgets 1.8.43.1 En",
+    "introduction": "The Mimic the Bedrock Edition controller.Changelog(1.8.43.1):Fix bugs.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "353f2ee2",
+    "lang": "zh_CN",
+    "name": "MBE-UM Widgets 1.8.58",
+    "introduction": "Bedrock-style touch, UM edition\nOriginal author: Nameless Apeng\nEdition author/maintainer: mmdyzy\n\nThe FCL built-in layout was updated together in 1.8.60 and 1.8.61, so both changelogs are included\n\nChangelog (1.8.61):\nHUD and F3 buttons on the quick panel now close the panel when tapped\nFixed the control mode page not being able to close\nAdjusted some text layout\nFixed the missing gray mask at the top/bottom of the international-style chat screen\nFixed two slashes appearing in commands when tapping the two top buttons of the command input bar\nThe chat screen no longer shows inventory function keys\nTouchController mode: double-tapping the screen center no longer middle-click picks\nAdded email contact in Layout Info\nFixed mod layout keys interfering with each other\n\nChangelog (1.8.60):\nRemoved the \"Debug\" button in the \"Game\" tab\nDead zone is shown when pressed\nAdded quick perspective switch button\nLong-pressing the drop key now quickly drops items\nAll mouse keys at the bottom-right no longer block camera rotation\nDouble-tapping the crosshair now middle-click picks\nNetEase mode: \"Widget Guide\" button changed to \"Quick Phrase\", and the two right-side buttons removed\nRemoved ads\nRemoved flashlight button\nMoved the macro-hold key to make it harder to mis-tap\nAdjusted the mouse key layout to feel more like a real mouse\nThe C-key zoom button can no longer be hidden individually\nYou are now asked to pick a control mode when loading the layout\nControl mode can no longer be changed anytime\nControl mode background changed to fully transparent",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "7b932c02",
+    "lang": "en",
+    "name": "Chickens",
+    "introduction": "This is a bad controller.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "de51f6d7",
+    "lang": "zh_CN",
+    "name": "Four-finger PVP layout",
+    "introduction": "Four-finger PVP key layout",
+    "device": [
+      0
+    ],
+    "categories": [
+      4
+    ]
+  },
+  {
+    "id": "e61bfb18",
+    "lang": "zh_CN",
+    "name": "Fire Tidal",
+    "introduction": "Fire Tide, Minimal Future",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "4bf3d919",
+    "lang": "zh_CN",
+    "name": "Genshin-Style Layout",
+    "introduction": "A journey of exploration across worlds",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "726214ca",
+    "lang": "zh_CN",
+    "name": "LightUI",
+    "introduction": "Beautiful and usable four-finger layout for large screens",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "cd792f25",
+    "lang": "zh_CN",
+    "name": "Tri-Fold Screen",
+    "introduction": "Contact qq 3791193182 if anything comes up",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "d237e382",
+    "lang": "zh_CN",
+    "name": "Mo Control Full",
+    "introduction": "A layout that is feature-rich, simple and refined",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "9812b344",
+    "lang": "zh_CN",
+    "name": "Bright Purples and Reds",
+    "introduction": "A good-looking, clean, practical four-finger survival layout (≧∇≦)/",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "c45e374e",
+    "lang": "zh_CN",
+    "name": "SHPE",
+    "introduction": "Updated camera features, added out-of-game full keyboard. We also promise to never make a start screen - you'll have to memorize commands yourself, no command library!",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "d01659ea",
+    "lang": "zh_CN",
+    "name": "GXSKEY",
+    "introduction": "Mr. Turtle's Bedrock-style layout\n            Author: Little Turtle Can't Swim\n         Referencing MBE",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "69c32f5c",
+    "lang": "zh_CN",
+    "name": "[Froststar] Lite",
+    "introduction": "Lightweight, minimal, beautiful       \n(Be sure to look at the image, there's a reminder!)",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "9e6f85df",
+    "lang": "zh_CN",
+    "name": "Potato's Layout",
+    "introduction": "A clean yet functional layout, with a Bedrock-style mode too, made on FCL's default control scheme (tablet only for now; phone in development)                                                                                                                                                                                    Beta0.2.0 Changelog: 1. Added Bedrock style 2. Added more always-on widgets 3. Fixed known bugs",
+    "device": [
+      1
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "1a8945e2",
+    "lang": "zh_CN",
+    "name": "Z_linofe's Simple Keys",
+    "introduction": "Simple keys, a key layout designed to be simple yet powerful",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "69ede3be",
+    "lang": "en",
+    "name": "MBE controller",
+    "introduction": "Mimicking the MCBE controller.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "61678503",
+    "lang": "zh_CN",
+    "name": "Epic Fight Button",
+    "introduction": "Made by Xingfu",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "14b99193",
+    "lang": "zh_CN",
+    "name": "QE",
+    "introduction": "Simple but not simplistic, full-featured. Built-in quick commands and full keyboard",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "173a026d",
+    "lang": "zh_CN",
+    "name": "Windows10",
+    "introduction": "Can you throw this kid a coin",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "55fc44a2",
+    "lang": "zh_CN",
+    "name": "Mcna-P-V-P-Vua-cocG",
+    "introduction": "Updated to full version",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "dta5a60d",
+    "lang": "zh_CN",
+    "name": "FullsUI",
+    "introduction": "Complete Enough (Simplified",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "007ade84",
+    "lang": "zh_CN",
+    "name": "Simple Layout",
+    "introduction": "Clean and simple, with a full keyboard and a command page; great for regular players. Includes some mod keys (updated from time to time), and control groups are clearly labeled - extend it yourself if you know how; \"Key styles use bedjava by XiaoluoFoxington on bilibili\"",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "3395db5d",
+    "lang": "zh_CN",
+    "name": "XR. Rising Sun Homemade Layout",
+    "introduction": "Made a layout I think is nice",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "f0364afd",
+    "lang": "zh_CN",
+    "name": "W-nG Simple Layout[Test]",
+    "introduction": "A simple functional homemade layout                                                           Recommended: 6.78-inch or larger devices                                                                Besides vanilla features, added:                                                                                1.<Mods> (custom mod hotkeys)                                                                       2.<Commands> (many quick commands)                                                                     3.<Full Keyboard> (show all keys)                                                      Some small optimizations (e.g. tap blank to exit)                                                                                       Feedback via QQ                                              QQ: 640238634",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "a7340b9f",
+    "lang": "zh_CN",
+    "name": "MC Original Tide Layout",
+    "introduction": "Four-finger, feel, minimal, innovation, quality, features, large",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "f2fc047c",
+    "lang": "zh_CN",
+    "name": "TACZ",
+    "introduction": "Layout designed specifically for TACZ, containing both survival and shooting keys. QQ group (694129073) - feedback on layout issues is welcome",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4865b746",
+    "lang": "zh_CN",
+    "name": "High Contrast",
+    "introduction": "Triple Like",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "fca21d1e",
+    "lang": "zh_CN",
+    "name": "TLBE",
+    "introduction": "Bedrock-style Widgets",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "d32a9b00",
+    "lang": "zh_CN",
+    "name": "ZH Ultra Comfort Keys (Full Keyboard)",
+    "introduction": "Extreme comfort",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "dce5b3f1",
+    "lang": "zh_CN",
+    "name": "Xiaoyou-made layout",
+    "introduction": "Youzhi layout: multi-function meme layout, your best buddy (",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "899a1e2b",
+    "lang": "zh_CN",
+    "name": "True•Full Keyboard",
+    "introduction": "True full keyboard - a full-key layout adapted by UP 093883734 from FCL classic layout. Plan 1 lets you type quickly; Plan 2's other keyboards can be dragged so they don't block the screen; Plan 4 has most common commands built in, very handy; also has spam-click and hold-press, suitable for players of all kinds",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      5
+    ]
+  },
+  {
+    "id": "b8d5fg39",
+    "lang": "en",
+    "name": "GIcontroller",
+    "introduction": "Default controller of Genshin Impact.Translated version into English",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "d5461e0b",
+    "lang": "zh_CN",
+    "name": "NAS Youtiao PVP+Survival Layout",
+    "introduction": "A simple layout for survival and PVP",
+    "device": [
+      0,
+      2
+    ],
+    "categories": [
+      4
+    ]
+  },
+  {
+    "id": "etc1db85",
+    "lang": "zh_CN",
+    "name": "InfinityXL",
+    "introduction": "It's CRGM's vision of the future (doge",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "2f0ceac4",
+    "lang": "zh_CN",
+    "name": "HY:FCL-JarExecutor",
+    "introduction": "Made after the FCL Jar runner UI; for the text editing screen.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      3
+    ]
+  },
+  {
+    "id": "74d08ec6",
+    "lang": "all",
+    "name": "Simple Control[Simple Layout]",
+    "introduction": "Simple, beautiful and feature-rich layout | Clean looks with rich features",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "8df54701",
+    "lang": "zh_CN",
+    "name": "Bedrock Button",
+    "introduction": "Buttons that resemble Bedrock pointer controls",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "347b57b4",
+    "lang": "zh_CN",
+    "name": "\"Joystick Multi-Finger Keys\" Release 1.0",
+    "introduction": "Basic controls; fine-tune and you'll master it. Feedback: QQ 655868158\nv3.8\n[Done! Final optimizations..... added inventory left/right switch keys [mouse-style], added main/offhand item switch keys]\nv3.7\n[Optimized code logic and order, shorter load time, less load][Optimized widget styling to feel more modern]\n[Fixed full-keyboard input / blank no-text issues]\n[Added a full-keyboard compatibility mode [when using FCL's built-in move keys, the full keyboard's ↑↓←→ lose function]]\nv3.6\n[Optimized the full keyboard; normally use the real keyboard ~ key for server play]\nv3.5\n[Fixed some widget jump issues][Added missing widgets][Major optimization: full keyboard---optimized keyboard plans.][Two common standards plus one compatible plan]",
+    "device": [
+      1
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "8166a0d3",
+    "lang": "zh_CN",
+    "name": "AugStart Release b16",
+    "introduction": "The minimal layout you have never seen, works on all MC versions including PVP, TACz, YSM and technical/modpack play)",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "98d3c75d",
+    "lang": "zh_CN",
+    "name": "\"Eternal Elysia\"",
+    "introduction": "Nothing much to describe - Elysia is with you!",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "052af265",
+    "lang": "zh_CN",
+    "name": "Darn Astral Express",
+    "introduction": "A fan-made derivative work; it's a knockoff, I guess",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "db7337cf",
+    "lang": "zh_CN",
+    "name": "tortoiseUI",
+    "introduction": "Clean, excellent layout\n2.0 added TouchController layout (needs TouchController mods)\n3.0 added the settings screen (you can still play while adjusting; settings layout remade, prettier)",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": "e5e2294f",
+    "lang": "zh_CN",
+    "name": "Master Full-Function Keyboard Pro",
+    "introduction": "The essential keyboard for large modpacks, official 5.0 update, 42 widget groups made just to satisfy your gaming needs. Base screen uses fully transparent material keys, clean and rigorous, with a sensible key layout; top center reserves space for Jade, top-right for the minimap; widget logic is clear, with newly added clear command sets and quick actions. Plus two full keyboards: center-screen full keyboard, pullable anytime, doesn't block normal gameplay; Full Keyboard Pro: 15 widget groups, two modes (full-key mode, combo mode); two grip schemes (four-finger mode, two & three-finger mode). Offers 4 blend methods, plus one function key set and two number key sets, supporting full layout coverage - fits large modpack layout needs. PVP keyboard: four-finger layout, quick item switch, quick bridging, strategist-level key arrangement, steady performance, unstoppable. Plus customizable dedicated mod keys to personalize your game. Questions, suggestions, or friend requests: add the author's QQ 3054421046",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "c15c762f",
+    "lang": "zh_CN",
+    "name": "MO key_U",
+    "introduction": "Fixed function keys not working; fixed full-key pro/pvp layout missing MORE and MOD keys after returning",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "b6f5bfa4",
+    "lang": "zh_CN",
+    "name": "ReplayMod Playback Layout",
+    "introduction": "This layout is made specifically for post-editing with the Replay Mod - I think it works pretty well",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      2
+    ]
+  },
+  {
+    "id": "5ff7cbf6",
+    "lang": "zh_CN",
+    "name": "Zenless Zone Zero-style Layout",
+    "introduction": "The world has ended, welcome to New Eridu",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "01e2cb7e",
+    "lang": "all",
+    "name": "76 Widget Styles",
+    "introduction": "This layout provides 38 control styles and 38 D-pad styles.",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      6
+    ]
+  },
+  {
+    "id": "e8e11c3f",
+    "lang": "zh_CN",
+    "name": "Fire Tide Next",
+    "introduction": "Darn! 1.6.0.101's 99% bugs is free!!!",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "9258d60b",
+    "lang": "zh_CN",
+    "name": "xueliang Simple Comfortable Keys",
+    "introduction": "Simple and excellent layout",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "4aa33472",
+    "lang": "zh_CN",
+    "name": "OneSht Lite",
+    "introduction": "A configurable layout with quick widget mounting; first inspired by the boxy look of win10, it reduces widget overlap as much as possible",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "603cf3f9",
+    "lang": "zh_CN",
+    "name": "21.TACZ.existence",
+    "introduction": "Built-in Full Keyboard Test",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "c25e359c",
+    "lang": "zh_CN",
+    "name": "21.TACZ.existence",
+    "introduction": "For vanilla survival mods: XAERO's minimap and TACZ***",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "categories": [],
+    "device": [
+      0
+    ],
+    "id": "28f47a5d",
+    "introduction": "Changelog: Small optimizations for smoother, more sensible controls; removed deleted widget groups from the repair screen; improved visibility of some touch controls in and out of game; optimized inventory buttons; fixed the bug where Menu 1 could not be triggered",
+    "lang": "zh_CN",
+    "name": "Ninghua LE"
+  },
+  {
+    "id": "a0839bd4",
+    "lang": "zh-CN",
+    "name": "Technical Parkour Key Layout",
+    "introduction": "By pkin for Minecraft Parkour",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "d623354f",
+    "lang": "zh_CN",
+    "name": "Ninghua LE SE",
+    "introduction": "Ninghua LE SE developed by one person; this is the final update",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "936dd9ab",
+    "lang": "zh_CN",
+    "name": "Mimic Milk Block Layout",
+    "introduction": "A \"My Milk Block\" Bedrock-style touch layout for FCL players. Added keys made for left-handed players.",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "5681c982",
+    "lang": "zh-CN",
+    "name": "Jiji Cat Layout",
+    "introduction": "An extremely beginner-friendly layout with built-in common key descriptions to help you enjoy Java Edition easily. Focuses on survival practicality, simplicity and beauty - not flashy or hard to learn.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "35b11461",
+    "lang": "zh_CN",
+    "name": "CraftSync Pro",
+    "introduction": "This version is: non-notch-display (not fullscreen)\nSome keys can be brought up by long-pressing or double-tapping certain keys\nIf you find any shortcomings while using it,\nfeel free to email me at 2910522265@qq.com.",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "e31e7243",
+    "lang": "zh_CN",
+    "name": "Convenient Layout⇔Quick Debug | Good for Survival",
+    "introduction": "Simple and handy keys",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "203c478d",
+    "lang": "zh_CN",
+    "name": "Buttons designed specifically for 5G feature phones",
+    "introduction": "  These buttons are designed for 320×480 feature phones, prepared for models such as TCL508n, Coolpad Jinshiji y60, Baihe A89, Yiqing feature phones and the like. Why prepare buttons like these? Because these phones have far too small a resolution and the keys are hard to set up; if you set up the D-Pad yourself it flies all over the place while you drag it. Although the layout looks a lot like the official one, this is a new layout rebuilt key by key to fit feature phones. It is a simple layout where you can add whatever keys you need. Below are the sensitivity and other settings for feature phones: sensitivity 550, window resolution 145 to play smoothly! Right now feature phones cannot open the input method directly in-game; you can tap input, add what you want, then tap what you typed - a bit slow, but it still works qwq",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "1d4caf3",
+    "lang": "zh_CN",
+    "name": "Cloud Genshin Layout",
+    "introduction": "A journey of exploration across worlds",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "8c872618",
+    "lang": "zh_CN",
+    "name": "[𝑬𝑪]-Full Keys-",
+    "introduction": "[𝑬𝑪]-Full Keys- Just a full-key layout, not much content yet, more coming later; the main focus is simplicity. Author QQ name: 💀Bro💀",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "09aaa09c",
+    "lang": "zh_CN",
+    "name": "RTM",
+    "introduction": "RTM Keys/Manage World/Number Keys",
+    "device": [
+      0,
+      1,
+      2
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "180d52d5",
+    "lang": "zh_CN",
+    "name": "[Breeze] Lightweight Layout",
+    "introduction": "A lightweight and attractive layout that suits most players",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "760c3516",
+    "lang": "zh_CN",
+    "name": "ITC Pineapple Touch",
+    "introduction": "New touch appears in the FCL launcher",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "4cb86b8d",
+    "lang": "zh_CN",
+    "name": "Multi-function simple key layout [Red Moon Fall]",
+    "introduction": "A beautiful layout style that reduces obstruction with smaller keys.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "839a5283",
+    "lang": "zh_CN",
+    "name": "Beginner-Friendly Layout",
+    "introduction": "Minimal",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "8a12b231",
+    "lang": "zh_CN",
+    "name": "Glass Layout",
+    "introduction": "Glass panel theme layout with a suitable level of transparency. Three widget groups for easy editing, includes a full keyboard, for 4:3 tablet devices (layout position on other devices is not guaranteed)\n\nThis update's changes:\n\n--- In-Game ---\n1. Added TAB key (auto hold)\n2. Adjusted more details (real changes, not filler :)\n\n--- Out-of-Game ---\n1. Added TAB key (no auto hold)\n2. Fixed 100%-size keys accidentally using the 150% style\n3. Adjusted more details (real changes, not filler :)\n\n--- Full Keyboard ---\n1. Changed font size to fix character overflow\n2. Fixed the full keyboard not popping up correctly\n\n--- Colors ---\nNormal: 50% opacity black stained glass\nActive: 50% opacity white stained glass\n\n--- FQA ---\nQ: I found a problem / have an idea - how do I tell you?\nA: DM \"FastLearnHistory\" on Bilibili and describe it\n\nQ: Why is my downloaded layout in a different position than your image?\nA: Your device's aspect ratio or DPI isn't adapted yet; the image is a preview on a 4:3 screen device(1) (the layout was also made for such devices). You can try editing the layout positions yourself; we may adapt more later\n......\n\nNote:\n  (1) Specific resolution: 1600x2176 (2K), DPI: 320 (xhdpi)\n\n--- By Bilibili FastLearnHistory",
+    "device": [
+      1
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "68fb5ffd",
+    "lang": "zh_CN",
+    "name": "BlockFold",
+    "introduction": "A clean, elegant Fold Craft Launcher widget that doesn't sacrifice many features.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "50a4236b",
+    "lang": "zh_CN",
+    "name": "Nanmu Qingcheng",
+    "introduction": "\"Nanmu Qingcheng button layout: more precise control, more fun in the game!\"​",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "f5f2bfc2",
+    "lang": "zh_CN",
+    "name": "MING PE Key Series 8 | 25715",
+    "introduction": "[FoldCraftLauncher]MING PE Key Series|Again: Touch the Extreme|Package: 2025.7.22|MING PE Docs https://docs.qq.com/doc/DZk5CZEhackxsUXNa",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "a87cd054",
+    "lang": "all",
+    "name": "\"Aurora Angel\" AuroraAngel UI",
+    "introduction": "Aurora Angel Layout\nVanilla Edition\n-----------\nThanks for using this little layout\nVersion: 26.3.0.0827\nUpdated: 2026.08.27\nFriendly tip\nBefore editing this layout, first understand how it works and the relationships between widget pages\nIf you have ideas, add the author or join the FCL widget exchange group to share your valuable feedback\n-----------\nUpdate link: https://1859081968.share.123865.com/123pan/dEscvd-RSx83\nDownload from this link if needed\nLatest Aurora Angel version\n\nBy THERON_VAUX",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "5241fb24",
+    "lang": "zh_CN",
+    "name": "ZXCV PVP Layout",
+    "introduction": "Convenient Simple Smooth PVP Four-Finger",
+    "device": [
+      0
+    ],
+    "categories": [
+      4
+    ]
+  },
+  {
+    "id": "3e109d06",
+    "lang": "zh_CN",
+    "name": "Ninghua LE NEXT",
+    "introduction": "A Frost LE NEXT made by one person, focused on simplicity",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "05d7c101",
+    "lang": "zh_CN",
+    "name": "MeXing Homemade",
+    "introduction": "Sprint, perspective switch and mod hotkeys are my custom keys - change them in game settings before use. For more info join our QQ group 954301671. We'll keep updating.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "2441f31d",
+    "lang": "all",
+    "name": "BBS Mod Layout",
+    "introduction": "BBS keys are all in here, plus some normal keys",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "db13451b",
+    "lang": "zh_CN",
+    "name": "Minimalist Style",
+    "introduction": "Clean interface; a minimal layout made for vanilla clients, expandable anytime.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "e65beeef",
+    "lang": "zh_CN",
+    "name": "Unforgettable",
+    "introduction": "A Bedrock-style touch layout.",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "fa095f58",
+    "lang": "zh_CN",
+    "name": "MO key",
+    "introduction": "ConfectionaryQwQ Note:\n\"I've been using this layout since 2023.08.12, over two years now.\nIt was first inspired by a layout I published on 2023.4.30 (BV1cX4y1U7dP), three years ago.\nIt was then made by author XIAOMO_S for the FCL launcher and called MO Key, version 0.4.0.\nThe last MO Key version was 0.5.0, released 2023.11.11, and hasn't been updated for a long time, but that doesn't stop 0.4.0 from still being the most classic and best version. In its memory.\"\n\nOriginal author Bilibili XIAOMO_S Note:\n\n\"A beautified layout for FCL (not easy to make, remember to follow!)\nSome icons borrowed from Bilibili-ConfectionaryQwQ (UID:694203513)\nModeled after the default Pojav layout style\nThis update (0.4.0 summary):\n1. Fixed bugs left from earlier versions\n2. Removed the \"GUI\" key\n3. Optimized and beautified the full keyboard and command area\n4. Added left-click auto hold (double-tap \"LEFT\" to enable)\n5. Added joystick\n6. Out-of-game Shift auto-hold adjusted (double-tap to enable)\"",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "id": "f297f5aa",
+    "lang": "all",
+    "name": "Knockback War",
+    "introduction": "Recommended: mc520.net server, noa genuine copy needed \nPVP type, four-finger controls",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "df0855a9",
+    "lang": "zh_CN",
+    "name": "cxykevin-Avionics-Full Keyboard",
+    "introduction": "Two-finger phone controls, multiple mod hotkeys and a full keyboard\nCreate optimization\nMust-read help!",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "categories": [],
+    "device": [
+      0
+    ],
+    "id": "bca4ef28",
+    "introduction": "A layout that simulates a full keyboard!\nRed: commonly used keys   Blue: less used keys   Green: unused keys\nBased on vanilla (1.21.11); special mod keys are left unchanged.\nBug feedback:\nBilibili @Zhuyu\nX @zhuyu_china\nkeyboard Series_KA",
+    "lang": "zh_CN",
+    "name": "keyboard"
+  },
+  {
+    "id": "9c0e5b75",
+    "lang": "all",
+    "name": "ZH-Respawn",
+    "introduction": "Wow, so many features?  !? Overpowered?! 👍🏻",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "5e327632",
+    "lang": "all",
+    "name": "Crystal PVP WuQing_Tick12OwO",
+    "introduction": "Updated the main UI and adjusted respawn anchor and glowstone positions a bit; if you're not used to it, download the previous version",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "b6c3242e",
+    "lang": "zh_CN",
+    "name": "Four-finger Layout",
+    "introduction": "Four-finger Layout",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "a278ec82",
+    "lang": "all",
+    "name": "PTS-SC",
+    "introduction": "bilibili search: Yu Cong Hang Dao La",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "ebd69728",
+    "lang": "all",
+    "name": "WuQing_Tick12OwO",
+    "introduction": "Breaking shields works a bit better",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "1c3260c5",
+    "lang": "all",
+    "name": "Immersive Vehicle Control",
+    "introduction": "Control layout for immersive vehicles",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4ff7b141",
+    "lang": "all",
+    "name": "Minimal",
+    "introduction": "Great for all players; clean and beautiful, tiny screen footprint, full features",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "tlm00000",
+    "lang": "zh_CN",
+    "name": "TLM-Ctrl",
+    "introduction": "The&Long&March\nCopyright notice:\nThis control layout is welcome to be re-modified\nAnyone who uploads and publishes a modified layout\nPlease credit the original author in a visible place\nUncredited layouts will be reported once verified\nThis layout drew inspiration from many sources\nI cannot list them all and apologize for that\nIf it infringes anyone's rights I will delete it promptly\nReference skin author:Starless\nData source littleskin.cn\nAuthor:bili454837484\nNon-realtime contact:\nQQ340739372",
+    "device": [
+      0
+    ],
+    "categories": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "da4e5cdb",
+    "lang": "all",
+    "name": "PTS-Analog handle",
+    "introduction": "Gamepad Emulation Buttons",
+    "device": [
+      0
+    ],
+    "categories": [
+      1
+    ]
+  },
+  {
+    "id": "c0426d45",
+    "lang": "zh_CN",
+    "name": "ADC Layout",
+    "introduction": "A beginner-friendly layout.",
+    "device": [
+      0,
+      1
+    ],
+    "categories": [
+      1
+    ]
+  }
+]

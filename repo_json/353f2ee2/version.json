@@ -1,0 +1,43 @@
+{
+  "author": "mmdyzy - Apeng-Who-Doesn-t-Want-a-Name",
+  "description": "Bedrock-style touch, UM edition\nOriginal author: Nameless Apeng\nEdition author/maintainer: mmdyzy\n\nThe FCL built-in layout was updated together in 1.8.60 and 1.8.61, so both changelogs are included\n\nChangelog (1.8.61):\nHUD and F3 buttons on the quick panel now close the panel when tapped\nFixed the control mode page not being able to close\nAdjusted some text layout\nFixed the missing gray mask at the top/bottom of the international-style chat screen\nFixed two slashes appearing in commands when tapping the two top buttons of the command input bar\nThe chat screen no longer shows inventory function keys\nTouchController mode: double-tapping the screen center no longer middle-click picks\nAdded email contact in Layout Info\nFixed mod layout keys interfering with each other\n\nChangelog (1.8.60):\nRemoved the \"Debug\" button in the \"Game\" tab\nDead zone is shown when pressed\nAdded quick perspective switch button\nLong-pressing the drop key now quickly drops items\nAll mouse keys at the bottom-right no longer block camera rotation\nDouble-tapping the crosshair now middle-click picks\nNetEase mode: \"Widget Guide\" button changed to \"Quick Phrase\", and the two right-side buttons removed\nRemoved ads\nRemoved flashlight button\nMoved the macro-hold key to make it harder to mis-tap\nAdjusted the mouse key layout to feel more like a real mouse\nThe C-key zoom button can no longer be hidden individually\nYou are now asked to pick a control mode when loading the layout\nControl mode can no longer be changed anytime\nControl mode background changed to fully transparent",
+  "history": [
+    {
+      "versionCode": 1010843,
+      "versionName": "1.8.43"
+    },
+    {
+      "versionCode": 1010844,
+      "versionName": "1.8.44"
+    },
+    {
+      "versionCode": 1010845,
+      "versionName": "1.8.45"
+    },
+    {
+      "versionCode": 1010850,
+      "versionName": "1.8.50"
+    },
+    {
+      "versionCode": 1010852,
+      "versionName": "1.8.52"
+    },
+    {
+      "versionCode": 1010854,
+      "versionName": "1.8.54"
+    },
+    {
+      "versionCode": 1010856,
+      "versionName": "1.8.56"
+    },
+    {
+      "versionCode": 1010858,
+      "versionName": "1.8.58"
+    }
+  ],
+  "latest": {
+    "versionCode": 1010861,
+    "versionName": "1.8.61"
+  },
+  "screenshot": 3
+}

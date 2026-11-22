@@ -1,0 +1,19 @@
+{
+  "author": "The Little Turtle Can't Swim",
+  "description": "Clean, excellent layout\n2.0 added TouchController layout (needs TouchController mods)\n3.0 added the settings screen (you can still play while adjusting; settings layout remade, prettier)",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "2.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 3,
+    "versionName": "3.0"
+  },
+  "screenshot": 7
+}

@@ -1,0 +1,10 @@
+{
+  "author": "FastLearnHistory",
+  "description": "Glass panel theme layout with a suitable level of transparency. Three widget groups for easy editing, includes a full keyboard, for 4:3 tablet devices (layout position on other devices is not guaranteed)\n\nThis update's changes:\n\n--- In-Game ---\n1. Added TAB key (auto hold)\n2. Adjusted more details (real changes, not filler :)\n\n--- Out-of-Game ---\n1. Added TAB key (no auto hold)\n2. Fixed 100%-size keys accidentally using the 150% style\n3. Adjusted more details (real changes, not filler :)\n\n--- Full Keyboard ---\n1. Changed font size to fix character overflow\n2. Fixed the full keyboard not popping up correctly\n\n--- Colors ---\nNormal: 50% opacity black stained glass\nActive: 50% opacity white stained glass\n\n--- FQA ---\nQ: I found a problem / have an idea - how do I tell you?\nA: DM \"FastLearnHistory\" on Bilibili and describe it\n\nQ: Why is my downloaded layout in a different position than your image?\nA: Your device's aspect ratio or DPI isn't adapted yet; the image is a preview on a 4:3 screen device(1) (the layout was also made for such devices). You can try editing the layout positions yourself; we may adapt more later\n......\n\nNote:\n  (1) Specific resolution: 1600x2176 (2K), DPI: 320 (xhdpi)\n\n--- By Bilibili FastLearnHistory",
+  "history": [],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "Release-1.0"
+  },
+  "screenshot": 6
+}

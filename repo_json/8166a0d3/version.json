@@ -1,0 +1,31 @@
+{
+  "author": "EricaV4",
+  "description": "The minimal layout you have never seen, works on all MC versions including PVP, TACz, YSM and technical/modpack play (possibly the last version)",
+  "history": [
+    {
+      "versionCode": 1303,
+      "versionName": "b13.3"
+    },
+    {
+      "versionCode": 1403,
+      "versionName": "b14.3"
+    },
+    {
+      "versionCode": 14041,
+      "versionName": "b14.4ONE"
+    },
+    {
+      "versionCode": 14051,
+      "versionName": "b15.1"
+    },
+    {
+      "versionCode": 14052,
+      "versionName": "b15.2Ended"
+    }
+  ],
+  "latest": {
+    "versionCode": 14060,
+    "versionName": "b16"
+  },
+  "screenshot": 11
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Potato_potato",
+  "description": "A clean yet functional layout, with a Bedrock-style mode too, made on FCL's default control scheme (tablet only for now; phone in development)                                                                                                                                                                                    Beta0.2.0 Changelog: 1. Added Bedrock style 2. Added more always-on widgets 3. Fixed known bugs",
+  "history": [
+    {
+      "versionCode": 10,
+      "versionName": "beta 0.1.0(pad)"
+    },
+    {
+      "versionCode": 11,
+      "versionName": "beta 0.1.1(pad)"
+    }
+  ],
+  "latest": {
+    "versionCode": 20,
+    "versionName": "Beta 0.2.0(pad)"
+  },
+  "screenshot": 3
+}

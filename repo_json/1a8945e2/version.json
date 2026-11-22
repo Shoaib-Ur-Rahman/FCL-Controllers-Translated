@@ -1,0 +1,23 @@
+{
+  "author": "Zero_linofe",
+  "description": "Simple layout keys; currently most buttons are vanilla keys. Using modpacks or changing key settings may make keys unusable. \n\nKey notes:\n\"Zoom\" -> \"v\".\n\"Map\" -> \"m\".\n\"Quick Return to Island\" -> automatically enters the return command \"/is\".\nHold F3 to open the F3 function screen.\n\nWhen using it, it is recommended to set the mouse control mode to Drag.",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.6"
+    },
+    {
+      "versionCode": 2,
+      "versionName": "beta 1.6.1"
+    },
+    {
+      "versionCode": 3,
+      "versionName": "beta 1.7.1"
+    }
+  ],
+  "latest": {
+    "versionCode": 6,
+    "versionName": "beta 1.7.2"
+  },
+  "screenshot": 1
+}

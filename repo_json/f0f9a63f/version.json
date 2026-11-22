@@ -1,0 +1,15 @@
+{
+  "author": "Mobei MovTery & Gangmen Songchi",
+  "description": "Version 1.0.1 changed absolute sizes to percentage sizes to improve device compatibility",
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0"
+    }
+  ],
+  "latest": {
+    "versionCode": 2,
+    "versionName": "1.0.1"
+  },
+  "screenshot": 2
+}

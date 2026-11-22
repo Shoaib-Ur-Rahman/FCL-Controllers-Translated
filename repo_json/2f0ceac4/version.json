@@ -1,0 +1,15 @@
+{
+  "screenshot": 2,
+  "description": "Made after the FCL Jar runner interface, suits text editing screens.\n\n1.1.0 - adjusted button sizes, added ctrl, shift, alt, fine-tuned some button positions.",
+  "author": "Hyplant",
+  "latest": {
+    "versionCode": 2,
+    "versionName": "1.1.0"
+  },
+  "history": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0"
+    }
+  ]
+}
